@@ -1,0 +1,12 @@
+{
+  "name": "check-driving-exam-times",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.21.1",
+    "node-telegram-bot-api": "0.40.0"
+  }
+}
