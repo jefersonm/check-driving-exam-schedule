@@ -1,6 +1,6 @@
 # check-driving-exam-times
 
-Simple script to check available times theorical and practical exams on https://fp.trafikverket.se
+A simple script to check available times for theoretical and practical exams on https://fp.trafikverket.se
 
 ## Setup
 
@@ -9,6 +9,8 @@ Set this environment variables:
 * SOCIAL_SECURITY_NUMBER
 * TELEGRAM_TOKEN
 * TELEGRAM_CHAT_ID
+
+Change parameters inside [check-time.js](check-time.js) script.
 
 Install using this command:
 
