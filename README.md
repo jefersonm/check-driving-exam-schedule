@@ -2,6 +2,8 @@
 
 A simple script to check available times for theoretical and practical exams on https://fp.trafikverket.se
 
+The script compare available times with a specific range and if found, print and sends message to Telegram chat that you configure.
+
 ## Setup
 
 Set this environment variables:
