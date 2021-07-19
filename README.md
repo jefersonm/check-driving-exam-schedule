@@ -1,4 +1,4 @@
-# check-driving-exam-times
+# check-driving-exam-schedule
 
 A simple script to check available times for theoretical and practical exams on https://fp.trafikverket.se
 
